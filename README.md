@@ -6,7 +6,7 @@ Asset Management Server
 
 Access the images and other assets using the following format: `https://cdn.jsdelivr.net/gh/user/repo@version/file`
 In this case,
-  user is `shortthirdman`
-  repo is `assets`
-  version should be `main`
-  file or file path according to folder structure in repository.
+  - user is `shortthirdman`
+  - repo is `assets`
+  - version should be `main`
+  - file or file path according to folder structure in repository.
