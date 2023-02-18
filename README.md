@@ -1,6 +1,7 @@
-# assets
+## Asset Management Server
 
-Asset Management Server
+![GitHub repo size](https://img.shields.io/github/repo-size/shortthirdman/assets)
+![GitHub repo file count](https://img.shields.io/github/directory-file-count/shortthirdman/assets)
 
 [Migrating from GitHub to jsDelivr](https://www.jsdelivr.com/github)
 
